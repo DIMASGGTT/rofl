@@ -116,13 +116,13 @@ footer {
 }
 h1::before{
     content:url("https://mail.google.com/mail/u/0?ui=2&ik=9ff8c8e2ef&attid=0.2&permmsgid=msg-f:1727205411380634186&th=17f8442ba779a24a&view=att&disp=safe&realattid=17f8441adbd846ed8982");
-    height:50px;
-    width:50px;
+    height:10px;
+    width:10px;
 }
 h1::after{
     content:url("https://mail.google.com/mail/u/0?ui=2&ik=9ff8c8e2ef&attid=0.2&permmsgid=msg-f:1727205411380634186&th=17f8442ba779a24a&view=att&disp=safe&realattid=17f8441adbd846ed8982");
-    height:20px;
-    width:20px;
+    height:10px;
+    width:10px;
 }
 .button:hover{
     background-color: orchid;
