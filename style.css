@@ -83,7 +83,7 @@ h1 {
 }
 
 footer {
-    background-image: url('https://javasea.ru/uploads/posts/2018-08/1533206277_ryzhaya-obezyana-s-otkrytym-rtom2.jpg')
+    background-image: url('https://javasea.ru/uploads/posts/2018-08/1533206277_ryzhaya-obezyana-s-otkrytym-rtom2.jpg');
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -115,10 +115,10 @@ footer {
     
 }
 h1::before{
-    content:url("https://mail.google.com/mail/u/0?ui=2&ik=9ff8c8e2ef&attid=0.2&permmsgid=msg-f:1727205411380634186&th=17f8442ba779a24a&view=att&disp=safe&realattid=17f8441adbd846ed8982 height:10px,width:10px");
+    content:url("https://mail.google.com/mail/u/0?ui=2&ik=9ff8c8e2ef&attid=0.2&permmsgid=msg-f:1727205411380634186&th=17f8442ba779a24a&view=att&disp=safe&realattid=17f8441adbd846ed8982");
 }
 h1::after{
-    content:url("https://mail.google.com/mail/u/0?ui=2&ik=9ff8c8e2ef&attid=0.2&permmsgid=msg-f:1727205411380634186&th=17f8442ba779a24a&view=att&disp=safe&realattid=17f8441adbd846ed8982 height:10px,width:10px");
+    content:url("https://mail.google.com/mail/u/0?ui=2&ik=9ff8c8e2ef&attid=0.2&permmsgid=msg-f:1727205411380634186&th=17f8442ba779a24a&view=att&disp=safe&realattid=17f8441adbd846ed8982");
 }
 .button:hover{
     background-color: orchid;
